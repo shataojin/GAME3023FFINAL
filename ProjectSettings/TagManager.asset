@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EncounterZone
+  - Enemy
+  - Item
+  - SoundZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - collison
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2946652027
+    locked: 0
+  - name: AboveGround
+    uniqueID: 4051397781
+    locked: 0
+  - name: collison
+    uniqueID: 1020322443
+    locked: 0
+  - name: window
+    uniqueID: 2960421315
+    locked: 0
+  - name: Item
+    uniqueID: 3356134949
+    locked: 0
+  - name: player
+    uniqueID: 1184462879
+    locked: 0
+  - name: key
+    uniqueID: 2330244555
+    locked: 0
